@@ -1,0 +1,32 @@
+Axes:
+  X: 100
+  Y: 100
+  Z: 100
+
+Constant_Temperature:
+  Temperature: 10.0
+
+Cuboid_Parameters:
+  CaseCuboid: 1
+  EdgeLength: 1.0
+  LowestValue: 2.0
+  TemperatureConductivity: 0.05
+  TimeDifferential: 1.0
+
+Edge_Middle_Temperature:
+  Edge: 2.0
+  Middle: 14.0
+
+Gui_Measurements:
+  Height: 800
+  Width: 800
+
+Simulation_Parameters:
+  Iterations: 1000
+  SleepTime: 15
+  Threads: 1
+  ThreadXSelection: 0
+
+Sinus_Temperature:
+  Basis: 10.0
+  Variance: 6.0
